@@ -18,5 +18,5 @@ This is a content-based fashion recommender system built with Python. It takes a
 
 Due to GitHub's 100MB file limit, the `embeddings.pkl` file is hosted externally:
 
-📥 **[Download embeddings.pkl from Kaggle](Link[https://www.kaggle.com/datasets/shhereyansh1111/embedding-pkl])**
+📥  [Download Dataset on Kaggle](https://www.kaggle.com/datasets/shhereyansh1111/embedding-pkl)
 
